@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>BIODATA</title>
+</head>
+<body bgcolor="#8EE5EE"><marquee>
+<font color="black"><font size="30">Biodata</font>
+</font></marquee>
+<hr>
+<font size="5"><font color="black">
+<img src="" align="right" height="50" width="50" 1px="">
+<br>Name =BHAVANA.V<br>
+<br>Father's name:VISWANATHAN.S<br>
+<br>Mothers's name:SASIKALA.TN<br>
+<br>DOB:23:06:2005<br>
+<br>Address:13-194,SOMAIAH STREET,KUPPAM,CHITTOR,ANDHRAPRADESH<br>
+<br>Age:17<br>
+<br>Mobile no:9398253577<br>
+<br>Religion:Hindu<br>
+<br>Nationality:Indian<br>
+<br>Gender:Female<br>
+<br>Qualification:12th STANDARD<br>
+<br>
+EDUCATION BACKGROUND
+<br>Elementary:MONFORT CENTENARY SCHOOL,KUPPAM<br>
+<br>year graduated:2020
+<br>High school:KUPPAM JUNIOR COLLEGE<br>
+<br>year graduated:2022<br>
+<br>	College:KONGU ENGINEERING COLLGE<br>
+<br> yeargraduated:2026<br>
+<br>course<B.TECH-INFORMATION TECHNOLOGY<br>
+<br>special skills<br>
+<ul>
+<li>TENNIS</li>
+<li>TEAMWORK</li>
+<li>CREATIVITY</li>
+</ul>
+</body>
+</html>
